@@ -1,4 +1,6 @@
-## Hi there 👋
+## Howdy
+# I'm just a fellow. A crazy fellow. One with Waffles.
+# Currently working on a Vampire-Survivors style game
 
 <!--
 **Crazy-Waffle-Man/Crazy-Waffle-Man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
